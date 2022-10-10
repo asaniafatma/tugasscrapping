@@ -1,3 +1,4 @@
 # tugasscrapping
-# Nama : Asania Fatma Cahyawati
-# NIM : 20.01.53.0031
+Nama : Asania Fatma Cahyawati
+
+NIM : 20.01.53.0031
